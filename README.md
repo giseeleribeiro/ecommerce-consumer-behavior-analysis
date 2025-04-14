@@ -3,7 +3,7 @@
 This project explores consumer behavior on e-commerce platforms using real-world data. It was developed as part of my Data Science coursework at Torrens University Australia.
 
 ## Case Study Report
-You can view the full academic report [here](case-study.pdf).
+You can view the full academic report [here] (IDS201_Ribeiro_Gisele_Assessment2_CaseStudy.pdf)
 
 ## Objectives
 - Analyze how age, gender, income, and devices influence purchasing habits

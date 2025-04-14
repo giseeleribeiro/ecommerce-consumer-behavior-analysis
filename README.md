@@ -17,10 +17,9 @@ You can view the full academic report [here](IDS201_Ribeiro_Gisele_Assessment2_C
 - Jupyter Notebook or `.py` script (analysis performed in `ecommerce_analysis.py`)
 
 ## Files Included
-- `case-study.pdf`: Final academic report
+- `IDS201_Ribeiro_Gisele_Assessment2_CaseStudy.pdf`: Final academic report
 - `ecommerce_analysis.py`: Python script for data analysis
-- `data/`: Cleaned dataset
-- `images/`: Optional visualizations (charts used in the report)
+- `Ecommerce_Consumer_Behavior_Analysis_Data`: Cleaned dataset
 
 ## Key Findings
 - Most shoppers are aged 20–40
